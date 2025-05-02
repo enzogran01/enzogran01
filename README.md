@@ -1,7 +1,7 @@
 ## Hi. I'm Enzo Granata
 
 Here are some ideas to get you started:
-- 🌱 Learning Javascript
+- 🌱 Learning Javascript / Node.js / MySQL
 
 <a href="https://github.com/enzogran01">
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=enzogran01&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
