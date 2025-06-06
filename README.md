@@ -1,4 +1,5 @@
-## Hi. I'm Enzo Granata
+## 💻 Hi. I'm Enzo Granata
+**`Full-Stack Developer`**
 
 Here are some ideas to get you started:
 - 🌱 Learning Javascript / Node.js / MySQL
