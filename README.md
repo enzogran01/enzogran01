@@ -4,13 +4,6 @@
 Here are some ideas to get you started:
 - 🌱 Learning Javascript / Node.js / MySQL
 
-<a href="https://github.com/enzogran01">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=enzogran01&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enzogran01&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
-</a>
-
 <div style="display: inline_block"> <br>
   <img align="center" alt="enzo.html" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="enzo.css" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
