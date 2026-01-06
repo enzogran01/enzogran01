@@ -4,6 +4,15 @@
 Here are some ideas to get you started:
 - 🌱 Learning Javascript / Node.js / MySQL
 
+### 🛠 Tech Stack
+- Front-end: HTML, CSS, TailwindCSS, JavaScript
+- Back-end: Node.js
+- Database: MySQL
+- Tools: Git, GitHub
+
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/enzo-granata-b73580307/) | [Email](mailto:egc2212@gmail.com)
+
 <div style="display: inline_block"> <br>
   <img align="center" alt="enzo.html" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="enzo.css" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
