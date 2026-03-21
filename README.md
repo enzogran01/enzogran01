@@ -2,7 +2,7 @@
 **`Frontend Developer in Training`**
 
 Here are some ideas to get you started:
-- 🌱 Learning Javascript / Node.js / MySQL / TailwindCSS
+- 🌱 Learning Javascript / Node.js / SQL & noSQL / TailwindCSS
 
 ### 🛠 Tech Stack
 - Front-end: HTML, CSS, TailwindCSS, JavaScript
