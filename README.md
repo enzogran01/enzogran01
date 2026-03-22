@@ -1,4 +1,4 @@
-<img src="./assets/name-gif.gif" alt="name-gif">
+<img src="./assets/name-animation.gif" alt="name-gif">
 **`Full-stack Developer`**
 
 Here are some ideas to get you started:
@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 ### 💻 Tech Skills
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,cs,nodejs,javascript,tailwind,dotnet,linux,mongodb,mysql,postgres,webpack" />
+    <img src="https://skillicons.dev/icons?i=git,github,cs,nodejs,javascript,tailwind,dotnet,linux,mongodb,mysql,postgres,webpack,visualstudio,vscode" />
   </a>
 </p>
 
