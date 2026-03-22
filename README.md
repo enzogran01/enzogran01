@@ -23,5 +23,3 @@ Here are some ideas to get you started:
   <img align="center" alt="enzo.sql" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
 </div>
-
-![Snake animation](https://github.com/enzogran01/enzogran01/blob/output/github-contribution-grid-snake.svg)
