@@ -1,4 +1,4 @@
-<img src="./assets/name-gif" alt="Landscape">
+<img src="./assets/name-gif.gif" alt="name-gif">
 **`Full-stack Developer`**
 
 Here are some ideas to get you started:
