@@ -1,5 +1,4 @@
 <img src="./assets/name-animation.gif" alt="name-gif">
-**`Full-stack Developer`**
 
 Here are some ideas to get you started:
 - 🌱 Learning Javascript / Node.js / SQL & noSQL / TailwindCSS
