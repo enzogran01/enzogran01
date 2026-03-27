@@ -23,7 +23,7 @@
 
 ## 🐙 Stats
 
-![enzogran01's Github Stats](https://github-readme-stats.vercel.app/api?username=enzogran01&show_icons=true&theme=holi)
+![enzogran01's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzogran01&show_icons=true&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzogran01&layout=compact&theme=holi)
 <img height="180em" src="https://streak-stats.demolab.com/?user=enzogran01&theme=transparent"/>
 
