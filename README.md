@@ -23,9 +23,15 @@
 
 ## 🐙 Stats
 
-![enzogran01's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzogran01&show_icons=true&theme=holi)
+<!-- ![enzogran01's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzogran01&show_icons=true&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzogran01&layout=compact&theme=holi)
-<img height="180em" src="https://streak-stats.demolab.com/?user=enzogran01&theme=transparent"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=enzogran01&theme=transparent"/> -->
+
+<div display="flex">
+<img height="180em" src="https://github-readme-stats-ten-alpha-86.vercel.app/api/top-langs/?username=enzogran01&layout=compact&theme=holi&count_private=true" />
+<img height="180em" src="https://github-readme-stats-ten-alpha-86.vercel.app/api?username=enzogran01&cache_seconds=1800&show_icons=true&theme=holi&count_private=true" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=enzogran01&theme=transparent"/>  
+</div>
 
 ## 📫 Contact
 <a href="mailto:egc2212@gmail.com?subject=Contact&body=Hi!" target="_blank">
