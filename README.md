@@ -9,8 +9,8 @@
 > <summary>🌟 Favorite projects</summary> <br>
   > <ul>
   > <li> Ozenpeole: web-application used to generate custom marketing campaings. </li>
-  > <li> Minecoords: register and vizualize all of your precious minecraft coordinates! </li>
-  > <li> TrackFocus: mobile-first designed web-app to register custom gym trainings. </li>
+  > <li> Inflection CRM: CRM system for inflection enterprise. </li>
+  > <li> Duo System: client and appointment management platform for Duo Estética. </li>
   > </ul>
 > </details>
 
